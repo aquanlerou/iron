@@ -45,7 +45,7 @@ ext {
     commonsLang3Version = "3.9"
     guavaVersion = "28.0-jre"
     fastjsonVersion = "1.2.70"
-    druidSpringBootStarterVersion = "1.1.10"
+    druidSpringBootStarterVersion = "1.2.6"
     swaggerVersion = "3.0.0"
     hutoolVersion = "5.5.1"
     mysqlConnectorJavaVersion = "8.0.22"
