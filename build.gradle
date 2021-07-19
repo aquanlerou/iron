@@ -48,7 +48,7 @@ ext {
     druidSpringBootStarterVersion = "1.1.10"
     swaggerVersion = "3.0.0"
     hutoolVersion = "5.5.1"
-    mysqlConnectorJavaVersion = "8.0.22"
+    mysqlConnectorJavaVersion = "8.0.26"
     jwtVersion = "0.10.7"
     jedisVersion = "3.3.0"
     gsonVersion = "2.8.5"
