@@ -47,7 +47,7 @@ ext {
     fastjsonVersion = "1.2.70"
     druidSpringBootStarterVersion = "1.1.10"
     swaggerVersion = "3.0.0"
-    hutoolVersion = "5.5.1"
+    hutoolVersion = "5.7.5"
     mysqlConnectorJavaVersion = "8.0.22"
     jwtVersion = "0.10.7"
     jedisVersion = "3.3.0"
